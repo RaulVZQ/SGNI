@@ -1,7 +1,7 @@
 # Sistema de Gestión de Nuevo Ingreso - FIAD UABC
 
 ## 📝 Descripción
-Herramienta desarrollada para los docentes de la Facultad de Ingeniería, Arquitectura y Diseño (FIAD) para automatizar la transición de alumnos desde su inscripción inicial hasta su ingreso formal.
+Herramienta desarrollada para los docentes y personnal administrativo encargados los cursos para los alumnos de nuevo ingresó de la Facultad de Ingeniería, Arquitectura y Diseño (FIAD) para automatizar la transición de alumnos desde su inscripción inicial hasta su ingreso formal.
 
 ## 🚀 Características Principales
 - **Carga de Datos:** Integración con hojas de Excel.
