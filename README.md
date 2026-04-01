@@ -18,6 +18,7 @@ Herramienta desarrollada para los docentes y personnal administrativo encargados
 ## 👥 Equipo (Grupo de Ingeniería de Software)
 - Erick Ramos Alvarado
 - Melquicedec luis Vicente
+- Raul Aram Vazquez Figueroa
 - [Pongan sus nombres aquí]
 
 ## 📋 Requerimientos de Instalación
